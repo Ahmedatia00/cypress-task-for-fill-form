@@ -1,0 +1,26 @@
+[
+{
+"Name":"Ahmed",
+"Mail":"mail@mail.com",
+"Phone":"0122222222222",
+"Subject":"we are here to test the automation by cypress ",
+"Description":"Thank you for your support",
+"submitionText" :"Thanks for getting in touch Ahmed!"
+},
+{
+    "Name":"ALi",
+    "Mail":"mail@mail.com",
+    "Phone":"0122222222222",
+    "Subject":"we are here to test the automation by cypress ",
+    "Description":"Thank you for your support",
+    "submitionText" :"Thanks for getting in touch ALi!"
+    },
+    {
+        "Name":"Yara",
+        "Mail":"mail@mail.com",
+        "Phone":"0122222222222",
+        "Subject":"we are here to test the automation by cypress ",
+        "Description":"Thank you for your support",
+        "submitionText" :"Thanks for getting in touch Yara!"
+        }
+]
